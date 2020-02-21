@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/pqsshen158/pqsshen158.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 潘琪
+## 个人主页
+###    潘琪
 ### 邮箱：1584939069@qq.com
 ### 学校：浙江万里学院
 ### 学历：大学本科
